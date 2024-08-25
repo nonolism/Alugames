@@ -37,6 +37,6 @@ Esse projeto foi realizado utilizando
 * [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Utilizado para estilizar a página
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Utilizado para todas as interações lógicas do projeto
 
-## ⚙️ Execução
+## Execução
 
 Caso você deseje executar o projeto para ver seu funcionamento, ele se encontra hospedado neste [link](https://alugames-weld.vercel.app)
