@@ -5,9 +5,9 @@ Projeto feito no curso de Lógica de programação da Alura com o objetivo de ex
 
 ## Descrição
 
-O projeto gira em torno de um site para alugar jogos. <br>
-Caso algum jogo esteja alugado, é necessário fazer modificações no HTML referente a esse jogo, para que fique claro que ele foi alugado. <br>
-De forma similar, caso um jogo que tenha sido alugado anteriormente seja devolvido, é necessário confirmar essa devolução, e após isso desfazer essas modificações para indicar que ele está disponível para aluguel. <br>
+O projeto gira em torno de um site para alugar jogos. <br><br>
+Caso algum jogo esteja alugado,<br> é necessário fazer modificações no HTML referente a esse jogo, para que fique claro que ele foi alugado. <br><br>
+De forma similar, caso um jogo que tenha sido alugado anteriormente seja devolvido,<br> é necessário confirmar essa devolução e após isso desfazer essas modificações para indicar que ele está disponível para aluguel. <br><br>
 Também e informado via console, quantos itens estão alugados no momento.
 
 ## Estrutura do Projeto
